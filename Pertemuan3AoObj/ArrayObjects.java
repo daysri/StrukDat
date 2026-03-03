@@ -1,4 +1,4 @@
-package arrayobjects;
+package Pertemuan3AoObj;
 
 public class ArrayObjects {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package arrayobjects;
+package Pertemuan3AoObj;
 
 public class PersegiPanjang {
     public int panjang;
