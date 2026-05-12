@@ -20,7 +20,7 @@ public class MainLLDLL {
         System.out.println("Setelah mengubah nilai data pada obj2:");
         System.out.println("Nilai data pada obj1: " + obj1.data);
         System.out.println("Nilai data pada obj2: " + obj2.data);
-
+/* 
         // demonstrasi Single Linked List
         SingleLL list = new SingleLL();
         list.addLast(10);
@@ -70,5 +70,6 @@ public class MainLLDLL {
         System.out.println("Setelah menghapus elemen terakhir (" + last + "):");
         doubleList.printForward();
         System.out.println("Size: " + doubleList.size());
+        */
     }
 }
